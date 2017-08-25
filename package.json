@@ -1,0 +1,12 @@
+{
+  "name": "pdf-playground",
+  "version": "1.0.0",
+  "description": "Generating PDFs",
+  "main": "index.js",
+  "repository": "git@github.com:monochromicon/pdf-playground.git",
+  "author": "Graham Barber <grahammbarber@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pdfmake": "^0.1.32"
+  }
+}
